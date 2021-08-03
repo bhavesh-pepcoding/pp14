@@ -89,3 +89,68 @@
 //     console.log(value,index,array);
 // }
 
+// let arr = [1,2,3,4];
+// for(let i = 0; i < arr.length; i++) {
+//     arr[i] += 2;
+// }
+
+// function callbackFn (value) {
+//     return value + 2;
+// }
+
+// arr = arr.map(callbackFn);
+
+// console.log(arr.slice(1,3));
+
+// let deletedArray = arr.splice(1,1);
+// console.log(deletedArray);
+// console.log(arr);
+
+// let arr = [1,2,3,3,5,4,5,6,7,8,9];
+
+// let temparr = [...arr]; copying an array
+
+// for(let i = arr.length - 1; i >= 0; i--) {
+//     if(arr[i] % 2 == 1) {
+//         arr.splice(i,1);
+//     }
+// }
+// console.log(arr);
+
+// arr = arr.filter(function(value) {
+    // if(value % 2 == 1) {
+    //     return false;
+    // } else {
+    //     return true;
+    // }
+    // return value % 2 == 0;
+// })
+// console.log(arr);
+
+// let arr = [2, 3, 5, 33, 4, 1];
+// console.log(arr.sort(function(a,b){
+//     // console.log(a,b);
+//     if(a > b) {
+//         return 1;
+//     } else if( a == b) {
+//         return 0;
+//     } else {
+//         return -1;
+//     }
+// }));
+
+// if no repeated number in array
+// console.log(arr.sort(function(a,b){
+//     // console.log(a,b);
+//     if(a > b) {
+//         return true;
+//     } else {
+//         return false;
+//     }
+// }));
+
+// console.log(arr.sort());
+// console.log(arr.includes(6));
+
+// let arr = [100,20];
+// console.log(arr.sort());
