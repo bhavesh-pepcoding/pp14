@@ -9,12 +9,12 @@ const fs = require("fs");
 // fs.writeFileSync("b.txt","hello my name is bhavesh")
 
 // let file1name = process.argv[2];
-let flag = process.argv[3];
-if(flag == "-ar") {
+// let flag = process.argv[3];
+// if(flag == "-ar") {
 
-} else if(flag == "-aw") {
+// } else if(flag == "-aw") {
 
-}
+// }
 // let file2name = process.argv[4];
 
 // let file1data = fs.readFileSync(file1name,"utf-8");
