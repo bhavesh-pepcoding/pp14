@@ -21,19 +21,35 @@ function requestCallback(err, res, html) {
     request(topicUrl, fetchRepos.bind(this, i));
   }
 }
-
 let topicCounts = 0;
+let repoCounts = 0;
+let totalRepos = 0;
 function fetchRepos(index, err, res, html) {
     topicCounts++;
     const $ = cheerio.load(html);
     let repoAnchorTags = $(".wb-break-word.text-bold");
+    totalRepos += repoAnchorTags.length < 8 ? repoAnchorTags.length : 8;
     for(let i = 0; i < 8 && i < repoAnchorTags.length; i++) {
+        let repoUrl = "https://www.github.com" + $(repoAnchorTags[i]).attr("href");
         gitTopics[index].repos.push({
-            "repoUrl" : "https://www.github.com" + $(repoAnchorTags[i]).attr("href"),
+            "repoUrl" : repoUrl,
             "issues" : []
+        });
+        request(repoUrl + "/issues", fetchIssues.bind(this,index,i));
+    }
+}
+
+function fetchIssues(topicIndex,repoIndex, err, res, html) {
+    repoCounts++;
+    const $ = cheerio.load(html);
+    let issueAnchorTags = $(".Link--primary.v-align-middle.no-underline.h4.js-navigation-open.markdown-title");
+    for(let i = 0; i < 8 && i < issueAnchorTags.length; i++) {
+        gitTopics[topicIndex].repos[repoIndex].issues.push({
+            issueName: $(issueAnchorTags[i]).text(),
+            issueUrl: "https://www.github.com" + $(issueAnchorTags[i]).attr("href")
         })
     }
-    if(topicCounts == 3) {
+    if(topicCounts == 3 && repoCounts == totalRepos) {
         fs.writeFileSync("temp.json", JSON.stringify(gitTopics));
     }
 }
