@@ -1,0 +1,113 @@
+[
+    {
+        "topicUrl": "https://www.github.com/topics/mongoose",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/bailicangdu/node-elm",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/madhums/node-express-mongoose-demo",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/santiq/bulletproof-nodejs",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/hagopj13/node-express-boilerplate",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/async-labs/builderbook",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/kunalkapadia/express-mongoose-es6-rest-api",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/async-labs/saas",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/developit/express-es6-rest-api",
+                "issues": []
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://www.github.com/topics/markdown",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/jekyll/jekyll",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/prettier/prettier",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/willmcgugan/rich",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/markedjs/marked",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/jgm/pandoc",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/marktext/marktext",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/docsifyjs/docsify",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/notable/notable",
+                "issues": []
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://www.github.com/topics/aspnet",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/aspnetboilerplate/aspnetboilerplate",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/dotnet/AspNetCore.Docs",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/bitwarden/server",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/ElectronNET/Electron.NET",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/RicoSuter/NSwag",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/thangchung/clean-code-dotnet",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/JimBobSquarePants/ImageProcessor",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/smartstore/SmartStoreNET",
+                "issues": []
+            }
+        ]
+    }
+]
