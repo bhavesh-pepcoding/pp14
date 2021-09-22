@@ -1,1 +1,865 @@
-[{"topicUrl":"https://www.github.com/topics/minecraft","repos":[{"repoUrl":"https://www.github.com/fogleman/Craft","issues":[{"issueName":"How to add new blocks ?","issueUrl":"https://www.github.com/fogleman/Craft/issues/281"},{"issueName":"the builder.py and the server.py and the world.py giving error","issueUrl":"https://www.github.com/fogleman/Craft/issues/280"},{"issueName":"Fix Minecraft GLFW Error 65542 WGL The driver does not appear to support opengl","issueUrl":"https://www.github.com/fogleman/Craft/issues/279"},{"issueName":"Crash report cant fix","issueUrl":"https://www.github.com/fogleman/Craft/issues/275"},{"issueName":"new structure added without announcement?!","issueUrl":"https://www.github.com/fogleman/Craft/issues/272"},{"issueName":"Port to browser using Webassembly ","issueUrl":"https://www.github.com/fogleman/Craft/issues/270"},{"issueName":"Support for android","issueUrl":"https://www.github.com/fogleman/Craft/issues/269"},{"issueName":"Maximum world size?","issueUrl":"https://www.github.com/fogleman/Craft/issues/264"}]},{"repoUrl":"https://www.github.com/dnschneid/crouton","issues":[{"issueName":"Starting GUI apps or xfce4 desktop breaks HDMI audio output for the entire Chrome OS until complete reboot.","issueUrl":"https://www.github.com/dnschneid/crouton/issues/4605"},{"issueName":"non-chroot target install   [Not an issue/possibly unrelated]","issueUrl":"https://www.github.com/dnschneid/crouton/issues/4600"},{"issueName":"Flashs in Minecraft.","issueUrl":"https://www.github.com/dnschneid/crouton/issues/4599"},{"issueName":"Lenovo Flex 5i opens ubuntu to black screen.","issueUrl":"https://www.github.com/dnschneid/crouton/issues/4598"},{"issueName":"Using kodi target x server fails","issueUrl":"https://www.github.com/dnschneid/crouton/issues/4597"},{"issueName":"Sound Driver not working on Focal Fossa","issueUrl":"https://www.github.com/dnschneid/crouton/issues/4592"},{"issueName":"sh: 0: Can't open startxfce4","issueUrl":"https://www.github.com/dnschneid/crouton/issues/4589"},{"issueName":"Bionic touchpad doesn't work within an X server","issueUrl":"https://www.github.com/dnschneid/crouton/issues/4588"}]},{"repoUrl":"https://www.github.com/MinecraftForge/MinecraftForge","issues":[{"issueName":"[1.17.1] PartEntity doesn't replace all instances of EnderDragonPart","issueUrl":"https://www.github.com/MinecraftForge/MinecraftForge/issues/8071"},{"issueName":"[1.16.5] Behavior of model rotation using Forge's TRSR transformation extension to vanilla model seems confusing","issueUrl":"https://www.github.com/MinecraftForge/MinecraftForge/issues/8069"},{"issueName":"Mods with \"forge\" in jar name not loading in 1.17.1-37.0.53","issueUrl":"https://www.github.com/MinecraftForge/MinecraftForge/issues/8063"},{"issueName":"[RFC] 'Core game' mod concept","issueUrl":"https://www.github.com/MinecraftForge/MinecraftForge/issues/8049"},{"issueName":"ModConfigEvent is fired too late","issueUrl":"https://www.github.com/MinecraftForge/MinecraftForge/issues/8045"},{"issueName":"Extended bundle tooltip not rendered","issueUrl":"https://www.github.com/MinecraftForge/MinecraftForge/issues/8037"},{"issueName":"[1.17.1] Entity Join World Event not firing on all mobs","issueUrl":"https://www.github.com/MinecraftForge/MinecraftForge/issues/8030"},{"issueName":"spawnDrops of FoxEntity calls the forge hooks getLootingLevel and onLivingDrops too late","issueUrl":"https://www.github.com/MinecraftForge/MinecraftForge/issues/8019"}]},{"repoUrl":"https://www.github.com/nuno-faria/tiler","issues":[{"issueName":"AttributeError: 'NoneType' object has no attribute 'split'","issueUrl":"https://www.github.com/nuno-faria/tiler/issues/21"},{"issueName":"Continually receive IndexError: index 3 is out of bounds for axis 2 with size 3","issueUrl":"https://www.github.com/nuno-faria/tiler/issues/18"},{"issueName":"gen_tiles.py fails on certain images ","issueUrl":"https://www.github.com/nuno-faria/tiler/issues/17"},{"issueName":"TypeError: object of type 'numpy.uint8' has no len()","issueUrl":"https://www.github.com/nuno-faria/tiler/issues/13"},{"issueName":"Tiler should pre-allocate array before loading tiles","issueUrl":"https://www.github.com/nuno-faria/tiler/issues/7"}]},{"repoUrl":"https://www.github.com/PaperMC/Paper","issues":[{"issueName":"Wrong entity passengers visual","issueUrl":"https://www.github.com/PaperMC/Paper/issues/6609"},{"issueName":"Expose a way to change an item's drag/air resistance","issueUrl":"https://www.github.com/PaperMC/Paper/issues/6607"},{"issueName":"Crash that I cant identify","issueUrl":"https://www.github.com/PaperMC/Paper/issues/6606"},{"issueName":"[Vanilla] Players are able to set the light level of a Light Block even if they shouldn't","issueUrl":"https://www.github.com/PaperMC/Paper/issues/6600"},{"issueName":"Failed to build paper","issueUrl":"https://www.github.com/PaperMC/Paper/issues/6599"},{"issueName":"Spawn limit missing for underground water creature","issueUrl":"https://www.github.com/PaperMC/Paper/issues/6598"},{"issueName":"Soul Sand Valley and Warped Forest Spawning Issues","issueUrl":"https://www.github.com/PaperMC/Paper/issues/6594"},{"issueName":"server crashes when invalid? chest minecart gets killed by void","issueUrl":"https://www.github.com/PaperMC/Paper/issues/6583"}]},{"repoUrl":"https://www.github.com/cuberite/cuberite","issues":[{"issueName":"Exiting first-person view through a mobs eyes in spectator mode (pressing shift) crashes the server","issueUrl":"https://www.github.com/cuberite/cuberite/issues/5296"},{"issueName":"The server trusts everything the client says","issueUrl":"https://www.github.com/cuberite/cuberite/issues/5290"},{"issueName":"When using a client that doesn't let you respawn, you can walk around while you're dead","issueUrl":"https://www.github.com/cuberite/cuberite/issues/5289"},{"issueName":"Server crashes when adding a rank to a player through the webadmin on an aarch64 machine","issueUrl":"https://www.github.com/cuberite/cuberite/issues/5288"},{"issueName":"Having an @ in your message acts weird while sending messages","issueUrl":"https://www.github.com/cuberite/cuberite/issues/5287"},{"issueName":"Teleporting to players on a lower Y level to you applies damage to the player","issueUrl":"https://www.github.com/cuberite/cuberite/issues/5286"},{"issueName":"Deadlock in cWorld:GetHeight","issueUrl":"https://www.github.com/cuberite/cuberite/issues/5284"},{"issueName":"Add setting to limit game versions that can join","issueUrl":"https://www.github.com/cuberite/cuberite/issues/5283"}]},{"repoUrl":"https://www.github.com/cabaletta/baritone","issues":[{"issueName":"Null pointer exception Minecraft 1.16.5","issueUrl":"https://www.github.com/cabaletta/baritone/issues/2996"},{"issueName":"Baritone is struggling to start building Very large Schematics on both internal and Schemitica ends","issueUrl":"https://www.github.com/cabaletta/baritone/issues/2993"},{"issueName":"why does baritone crash with -noverify","issueUrl":"https://www.github.com/cabaletta/baritone/issues/2987"},{"issueName":"Please add a brief but descriptive title","issueUrl":"https://www.github.com/cabaletta/baritone/issues/2985"},{"issueName":"1.16.5 #mine giving error in chat and #goto crashes game","issueUrl":"https://www.github.com/cabaletta/baritone/issues/2977"},{"issueName":"Can Baritone break temporary blocks","issueUrl":"https://www.github.com/cabaletta/baritone/issues/2976"},{"issueName":"Powdersnow mlg","issueUrl":"https://www.github.com/cabaletta/baritone/issues/2975"},{"issueName":"Crash in forge 1.16.5","issueUrl":"https://www.github.com/cabaletta/baritone/issues/2974"}]},{"repoUrl":"https://www.github.com/huanghongxun/HMCL","issues":[{"issueName":"开发版 3.4.202bug反馈","issueUrl":"https://www.github.com/huanghongxun/HMCL/issues/1039"},{"issueName":"[建議] 伺服器自動更新整合包功能Pass選項","issueUrl":"https://www.github.com/huanghongxun/HMCL/issues/1038"},{"issueName":"mod下载中取消，UI不会关闭","issueUrl":"https://www.github.com/huanghongxun/HMCL/issues/1035"},{"issueName":"“模组管理”界面模组名称与文件名称不匹配","issueUrl":"https://www.github.com/huanghongxun/HMCL/issues/1033"},{"issueName":"Windows 10 on ARM 平台，HMCL 运行于 AArch64 原生 JDK 上导致系统蓝屏","issueUrl":"https://www.github.com/huanghongxun/HMCL/issues/1016"},{"issueName":"HMCL 在 Windows 上应尽量选择独立显卡","issueUrl":"https://www.github.com/huanghongxun/HMCL/issues/1014"},{"issueName":"启动命令长度可能会超过 8191 个字符，从而无法启动游戏","issueUrl":"https://www.github.com/huanghongxun/HMCL/issues/1013"},{"issueName":"非100%缩放下“添加账户”界面字体渲染模糊","issueUrl":"https://www.github.com/huanghongxun/HMCL/issues/1012"}]}]},{"topicUrl":"https://www.github.com/topics/aspnet","repos":[{"repoUrl":"https://www.github.com/aspnetboilerplate/aspnetboilerplate","issues":[{"issueName":"ABP 6.4 Exception ArgumentNullException: Value cannot be null. (Parameter 'ordering')","issueUrl":"https://www.github.com/aspnetboilerplate/aspnetboilerplate/issues/6254"},{"issueName":"Use multi tenancy in DynamicProperty and DynamicEntityProperty caches","issueUrl":"https://www.github.com/aspnetboilerplate/aspnetboilerplate/issues/6251"},{"issueName":"Multi Tenant : Single Deployment with Multi Database","issueUrl":"https://www.github.com/aspnetboilerplate/aspnetboilerplate/issues/6250"},{"issueName":"Question about notification system","issueUrl":"https://www.github.com/aspnetboilerplate/aspnetboilerplate/issues/6249"},{"issueName":"The LINQ expression 'DbSet<Role> could not translated","issueUrl":"https://www.github.com/aspnetboilerplate/aspnetboilerplate/issues/6247"},{"issueName":"OData return 500 error","issueUrl":"https://www.github.com/aspnetboilerplate/aspnetboilerplate/issues/6243"},{"issueName":"About read appsettings.json in appservices","issueUrl":"https://www.github.com/aspnetboilerplate/aspnetboilerplate/issues/6242"},{"issueName":"Email Configuration: add IsEnabled property","issueUrl":"https://www.github.com/aspnetboilerplate/aspnetboilerplate/issues/6241"}]},{"repoUrl":"https://www.github.com/dotnet/AspNetCore.Docs","issues":[{"issueName":"Required minimum Node.js bump for Azure SDK","issueUrl":"https://www.github.com/dotnet/AspNetCore.Docs/issues/23309"},{"issueName":"Blazor JavaScript initializers","issueUrl":"https://www.github.com/dotnet/AspNetCore.Docs/issues/23300"},{"issueName":"Collocate JavaScript files with pages, views, and components","issueUrl":"https://www.github.com/dotnet/AspNetCore.Docs/issues/23299"},{"issueName":"Update for .NET 6","issueUrl":"https://www.github.com/dotnet/AspNetCore.Docs/issues/23287"},{"issueName":"Generation of in-line JS unsafe","issueUrl":"https://www.github.com/dotnet/AspNetCore.Docs/issues/23283"},{"issueName":"Doc update to remove AllowAreas","issueUrl":"https://www.github.com/dotnet/AspNetCore.Docs/issues/23280"},{"issueName":"Docs for minimal APIs","issueUrl":"https://www.github.com/dotnet/AspNetCore.Docs/issues/23275"},{"issueName":"Please update 'Mock authentication' example","issueUrl":"https://www.github.com/dotnet/AspNetCore.Docs/issues/23262"}]},{"repoUrl":"https://www.github.com/bitwarden/server","issues":[{"issueName":"Single Organization policy is preventing owners from creating other Organizations, but not admins","issueUrl":"https://www.github.com/bitwarden/server/issues/1579"},{"issueName":"Unhealthy SSo and events on Fresh 1.42.2","issueUrl":"https://www.github.com/bitwarden/server/issues/1546"},{"issueName":"Error when updating self-hosted: Property 'captcha' not found on type 'Bit.Setup.Configuration'.","issueUrl":"https://www.github.com/bitwarden/server/issues/1537"},{"issueName":"Bitwarden performace very slow","issueUrl":"https://www.github.com/bitwarden/server/issues/1485"},{"issueName":"Organization transactional emails display some characters as HTML character reference","issueUrl":"https://www.github.com/bitwarden/server/issues/1395"},{"issueName":"Adding a duplicate device identifier result in error code 500","issueUrl":"https://www.github.com/bitwarden/server/issues/1365"},{"issueName":"Some invalid emails are being accepted when registering","issueUrl":"https://www.github.com/bitwarden/server/issues/1364"},{"issueName":"Posting \"sends\" files without a Content-Type header result in error code 500","issueUrl":"https://www.github.com/bitwarden/server/issues/1363"}]},{"repoUrl":"https://www.github.com/ElectronNET/Electron.NET","issues":[{"issueName":"Electronize startup exception.","issueUrl":"https://www.github.com/ElectronNET/Electron.NET/issues/604"},{"issueName":"Electron Project exe does not exist in desktop folder","issueUrl":"https://www.github.com/ElectronNET/Electron.NET/issues/603"},{"issueName":"Blazor Server Side work on electronize start but not after electronize build /target win","issueUrl":"https://www.github.com/ElectronNET/Electron.NET/issues/602"},{"issueName":"Get path to the file that launched the application","issueUrl":"https://www.github.com/ElectronNET/Electron.NET/issues/601"},{"issueName":"How to include static files in electron-packager published output folder?","issueUrl":"https://www.github.com/ElectronNET/Electron.NET/issues/600"},{"issueName":"[Bug] can't install on balzor webassembly","issueUrl":"https://www.github.com/ElectronNET/Electron.NET/issues/599"},{"issueName":"build linux failed on window","issueUrl":"https://www.github.com/ElectronNET/Electron.NET/issues/597"},{"issueName":"Setting BrowserWindow Cookies to a value that should be or is URL encoded fails","issueUrl":"https://www.github.com/ElectronNET/Electron.NET/issues/593"}]},{"repoUrl":"https://www.github.com/RicoSuter/NSwag","issues":[{"issueName":"Question: I made a client/operation name generator that works off a format string..","issueUrl":"https://www.github.com/RicoSuter/NSwag/issues/3628"},{"issueName":".Net 6 support.","issueUrl":"https://www.github.com/RicoSuter/NSwag/issues/3627"},{"issueName":"The type or namespace name 'SwaggerToCSharpClientGeneratorSettings' could not be found","issueUrl":"https://www.github.com/RicoSuter/NSwag/issues/3626"},{"issueName":"Nswag Studio: add an option to generate tree-shakeable Typescript clients","issueUrl":"https://www.github.com/RicoSuter/NSwag/issues/3624"},{"issueName":"The axios client generator messes up all the request bodies","issueUrl":"https://www.github.com/RicoSuter/NSwag/issues/3623"},{"issueName":"CSharpClientGenerator: IFormFileCollection support broken","issueUrl":"https://www.github.com/RicoSuter/NSwag/issues/3622"},{"issueName":"QUESTION: Typescript custom headers for individual requests","issueUrl":"https://www.github.com/RicoSuter/NSwag/issues/3621"},{"issueName":"Typescript client - generated parameter not typed as array for dictionary query params ","issueUrl":"https://www.github.com/RicoSuter/NSwag/issues/3620"}]},{"repoUrl":"https://www.github.com/thangchung/clean-code-dotnet","issues":[{"issueName":"Add some of the sections from https://csharpcodingguidelines.com/","issueUrl":"https://www.github.com/thangchung/clean-code-dotnet/issues/98"},{"issueName":"Please, add vs project with cs examples in this repo","issueUrl":"https://www.github.com/thangchung/clean-code-dotnet/issues/97"},{"issueName":"SOLID. Liskov Substitution Principle (LSP). Example incorrect.","issueUrl":"https://www.github.com/thangchung/clean-code-dotnet/issues/96"},{"issueName":"Objects and Data Structures. Make objects have private/protected members","issueUrl":"https://www.github.com/thangchung/clean-code-dotnet/issues/94"},{"issueName":"Avoid conditionals","issueUrl":"https://www.github.com/thangchung/clean-code-dotnet/issues/93"},{"issueName":"CleanCodeDotnet","issueUrl":"https://www.github.com/thangchung/clean-code-dotnet/issues/90"},{"issueName":"OCP: HttpRequester Inheritance from AdapterBase does not make sense","issueUrl":"https://www.github.com/thangchung/clean-code-dotnet/issues/88"},{"issueName":"Missing IAsyncEnumerable mention in Common Async Problems","issueUrl":"https://www.github.com/thangchung/clean-code-dotnet/issues/82"}]},{"repoUrl":"https://www.github.com/JimBobSquarePants/ImageProcessor","issues":[{"issueName":"Improve ISupportedImageFormat handling for vector and video types","issueUrl":"https://www.github.com/JimBobSquarePants/ImageProcessor/pull/822"}]},{"repoUrl":"https://www.github.com/smartstore/SmartStoreNET","issues":[{"issueName":"Could not load file or assembly 'Microsoft.CodeDom.Providers.DotNetCompilerPlatform,","issueUrl":"https://www.github.com/smartstore/SmartStoreNET/issues/2224"},{"issueName":"Google Merchant Center misbehaviour","issueUrl":"https://www.github.com/smartstore/SmartStoreNET/issues/2223"},{"issueName":"How can i fix \"No store could be loaded\" error?","issueUrl":"https://www.github.com/smartstore/SmartStoreNET/issues/2222"},{"issueName":"Could not load file or assembly 'System.Buffers","issueUrl":"https://www.github.com/smartstore/SmartStoreNET/issues/2221"},{"issueName":"DependingPrices and Coupons","issueUrl":"https://www.github.com/smartstore/SmartStoreNET/issues/2220"},{"issueName":"Filter sidebar widget missing in configuration","issueUrl":"https://www.github.com/smartstore/SmartStoreNET/issues/2219"},{"issueName":"invisible reCaptcha not working with form-configurator","issueUrl":"https://www.github.com/smartstore/SmartStoreNET/issues/2216"},{"issueName":"Rule for shipment, unexpected result.","issueUrl":"https://www.github.com/smartstore/SmartStoreNET/issues/2215"}]}]},{"topicUrl":"https://www.github.com/topics/nim","repos":[{"repoUrl":"https://www.github.com/nim-lang/Nim","issues":[{"issueName":"Compiler unable to detect cyclic type definition if it is used as the argument in a procedure","issueUrl":"https://www.github.com/nim-lang/Nim/issues/18855"},{"issueName":"Gully comments causing failure to compile","issueUrl":"https://www.github.com/nim-lang/Nim/issues/18847"},{"issueName":"Typechecking can be bypassed for descendant of generics when a typedesc parameter or auto is used","issueUrl":"https://www.github.com/nim-lang/Nim/issues/18846"},{"issueName":"Object can be implicitly converted into a different base than what is defined","issueUrl":"https://www.github.com/nim-lang/Nim/issues/18845"},{"issueName":"Compilation Failure - empty scalar initializer - Inheritable objects & Atomics [OA]RC on DEVEL","issueUrl":"https://www.github.com/nim-lang/Nim/issues/18844"},{"issueName":"Trying to run the build_all.sh script with a nimble package install throws error","issueUrl":"https://www.github.com/nim-lang/Nim/issues/18840"},{"issueName":"Compilation outputs strange warning messages (packaging issue?)","issueUrl":"https://www.github.com/nim-lang/Nim/issues/18831"},{"issueName":"#18784 broke arraymancer autograd code","issueUrl":"https://www.github.com/nim-lang/Nim/issues/18828"}]},{"repoUrl":"https://www.github.com/zedeus/nitter","issues":[{"issueName":"Disabling autocomplete attribute","issueUrl":"https://www.github.com/zedeus/nitter/issues/433"},{"issueName":"\"Content-Length required\" error in Firefox when saving preferences","issueUrl":"https://www.github.com/zedeus/nitter/issues/430"},{"issueName":"Instances sporadically get a random username's timeline for RSS feeds","issueUrl":"https://www.github.com/zedeus/nitter/issues/428"},{"issueName":"Remove title from the RSS feed","issueUrl":"https://www.github.com/zedeus/nitter/issues/425"},{"issueName":"An error has occured in one of your routes","issueUrl":"https://www.github.com/zedeus/nitter/issues/424"},{"issueName":"Quotes tweets in RSS feed show whole tweet instead of links","issueUrl":"https://www.github.com/zedeus/nitter/issues/423"},{"issueName":"Docker: ARM64 builds are all broken","issueUrl":"https://www.github.com/zedeus/nitter/issues/422"},{"issueName":"Video in RSS feed","issueUrl":"https://www.github.com/zedeus/nitter/issues/421"}]},{"repoUrl":"https://www.github.com/Dav1dde/glad","issues":[{"issueName":"GLAD2: Is the \"alias\" option support \"OES\" extensions?","issueUrl":"https://www.github.com/Dav1dde/glad/issues/334"},{"issueName":"Multiple definitions for D","issueUrl":"https://www.github.com/Dav1dde/glad/issues/317"},{"issueName":"Zig Generator","issueUrl":"https://www.github.com/Dav1dde/glad/issues/307"},{"issueName":"Dealing with Languages I cannot properly maintain in glad2","issueUrl":"https://www.github.com/Dav1dde/glad/issues/302"},{"issueName":"Inclusion guards for OpenGL ES headers","issueUrl":"https://www.github.com/Dav1dde/glad/issues/273"},{"issueName":"Multicontext documentation ambiguity and possible bug?","issueUrl":"https://www.github.com/Dav1dde/glad/issues/259"},{"issueName":"Add OpenXR support to loader","issueUrl":"https://www.github.com/Dav1dde/glad/issues/233"},{"issueName":"Use atexit to automatically unload/free module handles","issueUrl":"https://www.github.com/Dav1dde/glad/issues/228"}]},{"repoUrl":"https://www.github.com/nim-lang/nimble","issues":[{"issueName":"nim says \"invalid package name\"","issueUrl":"https://www.github.com/nim-lang/nimble/issues/940"},{"issueName":"nimble publish doesn't checks if repo url is valid","issueUrl":"https://www.github.com/nim-lang/nimble/issues/939"},{"issueName":"Print .nim files as they're compiled when --debug is used?","issueUrl":"https://www.github.com/nim-lang/nimble/issues/936"},{"issueName":"version in nimble file redundant with git tag of package?","issueUrl":"https://www.github.com/nim-lang/nimble/issues/935"},{"issueName":"skipDirs is overriden by installExt","issueUrl":"https://www.github.com/nim-lang/nimble/issues/932"},{"issueName":"Win32/Uwasson.A!ml","issueUrl":"https://www.github.com/nim-lang/nimble/issues/930"},{"issueName":"Flags are not passed correctly to custom tasks","issueUrl":"https://www.github.com/nim-lang/nimble/issues/929"},{"issueName":"NIMBLE_DIR=$HOME/.nimble_alt nimble install pkgname doesn't work unless i also add XDG_CONFIG_HOME= ","issueUrl":"https://www.github.com/nim-lang/nimble/issues/925"}]},{"repoUrl":"https://www.github.com/mratsim/Arraymancer","issues":[{"issueName":"Found that output from forward pass zeros-out during test","issueUrl":"https://www.github.com/mratsim/Arraymancer/issues/526"},{"issueName":"speed vs numpy","issueUrl":"https://www.github.com/mratsim/Arraymancer/issues/522"},{"issueName":"Windows CI","issueUrl":"https://www.github.com/mratsim/Arraymancer/issues/512"},{"issueName":"[32-bit Linux] Investigate Linear Algebra failure","issueUrl":"https://www.github.com/mratsim/Arraymancer/issues/511"},{"issueName":"make arraymancer work with devel","issueUrl":"https://www.github.com/mratsim/Arraymancer/issues/505"},{"issueName":"Operations not traced on minimal example","issueUrl":"https://www.github.com/mratsim/Arraymancer/issues/502"},{"issueName":"Two (small) issues with display of tensor","issueUrl":"https://www.github.com/mratsim/Arraymancer/issues/500"},{"issueName":"QR decomposition test, sign issue","issueUrl":"https://www.github.com/mratsim/Arraymancer/issues/494"}]},{"repoUrl":"https://www.github.com/yglukhov/nimx","issues":[{"issueName":"Better clipboard support on Linux and Android","issueUrl":"https://www.github.com/yglukhov/nimx/issues/491"},{"issueName":"demo completely broken in firefox 91","issueUrl":"https://www.github.com/yglukhov/nimx/issues/490"},{"issueName":"error nimble install nimx","issueUrl":"https://www.github.com/yglukhov/nimx/issues/489"},{"issueName":"Font path does not work on Fedora","issueUrl":"https://www.github.com/yglukhov/nimx/issues/485"},{"issueName":"Unable to compile examples as instructed with 'nake'.","issueUrl":"https://www.github.com/yglukhov/nimx/issues/479"},{"issueName":"Documentation : plotting curves, diagrams etc","issueUrl":"https://www.github.com/yglukhov/nimx/issues/477"},{"issueName":"Borderless window on macos","issueUrl":"https://www.github.com/yglukhov/nimx/issues/465"},{"issueName":"Collisions on SSL_connect (openssl.nim)","issueUrl":"https://www.github.com/yglukhov/nimx/issues/464"}]},{"repoUrl":"https://www.github.com/planety/prologue","issues":[{"issueName":"Multiple long lasting connections fail","issueUrl":"https://www.github.com/planety/prologue/issues/128"},{"issueName":"How to serve static folder at specific route?","issueUrl":"https://www.github.com/planety/prologue/issues/126"},{"issueName":"Are there any plans to support HTTP/2 server protocol?","issueUrl":"https://www.github.com/planety/prologue/issues/119"},{"issueName":"Unable to generate docs for projects using prologue","issueUrl":"https://www.github.com/planety/prologue/issues/118"},{"issueName":"add setCookie(response, cookie: Cookie) overload","issueUrl":"https://www.github.com/planety/prologue/issues/115"},{"issueName":"Prologue server crashes with unhandled exception: reqGetData.headersFinished Selector not ready to send.","issueUrl":"https://www.github.com/planety/prologue/issues/110"},{"issueName":"Allow multiple servers running in parallel in async mode","issueUrl":"https://www.github.com/planety/prologue/issues/105"},{"issueName":"Upload file huge memory consumption","issueUrl":"https://www.github.com/planety/prologue/issues/103"}]},{"repoUrl":"https://www.github.com/nim-lang/nimforum","issues":[{"issueName":"Upgrade process? Release process?","issueUrl":"https://www.github.com/nim-lang/nimforum/issues/299"},{"issueName":"Unsure of the security of makeIdentHash / makePassword","issueUrl":"https://www.github.com/nim-lang/nimforum/issues/298"},{"issueName":"Please support asciidoc formatting","issueUrl":"https://www.github.com/nim-lang/nimforum/issues/297"},{"issueName":"FR: Expand the list of supported PLs for syntax highlighting","issueUrl":"https://www.github.com/nim-lang/nimforum/issues/296"},{"issueName":"Reply textarea doesn't keep it's size after losing focus","issueUrl":"https://www.github.com/nim-lang/nimforum/issues/295"},{"issueName":"Update cheat sheet to reflect all the supported Markdown markup","issueUrl":"https://www.github.com/nim-lang/nimforum/issues/294"},{"issueName":"[FR] Add action buttons for code blocks","issueUrl":"https://www.github.com/nim-lang/nimforum/issues/293"},{"issueName":"\"Activity\" column  with the time since last activity can be negative","issueUrl":"https://www.github.com/nim-lang/nimforum/issues/292"}]}]}]
+[
+    {
+        "topicUrl": "https://www.github.com/topics/minecraft",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/fogleman/Craft",
+                "issues": [
+                    {
+                        "issueName": "How to add new blocks ?",
+                        "issueUrl": "https://www.github.com/fogleman/Craft/issues/281"
+                    },
+                    {
+                        "issueName": "the builder.py and the server.py and the world.py giving error",
+                        "issueUrl": "https://www.github.com/fogleman/Craft/issues/280"
+                    },
+                    {
+                        "issueName": "Fix Minecraft GLFW Error 65542 WGL The driver does not appear to support opengl",
+                        "issueUrl": "https://www.github.com/fogleman/Craft/issues/279"
+                    },
+                    {
+                        "issueName": "Crash report cant fix",
+                        "issueUrl": "https://www.github.com/fogleman/Craft/issues/275"
+                    },
+                    {
+                        "issueName": "new structure added without announcement?!",
+                        "issueUrl": "https://www.github.com/fogleman/Craft/issues/272"
+                    },
+                    {
+                        "issueName": "Port to browser using Webassembly ",
+                        "issueUrl": "https://www.github.com/fogleman/Craft/issues/270"
+                    },
+                    {
+                        "issueName": "Support for android",
+                        "issueUrl": "https://www.github.com/fogleman/Craft/issues/269"
+                    },
+                    {
+                        "issueName": "Maximum world size?",
+                        "issueUrl": "https://www.github.com/fogleman/Craft/issues/264"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/dnschneid/crouton",
+                "issues": [
+                    {
+                        "issueName": "Starting GUI apps or xfce4 desktop breaks HDMI audio output for the entire Chrome OS until complete reboot.",
+                        "issueUrl": "https://www.github.com/dnschneid/crouton/issues/4605"
+                    },
+                    {
+                        "issueName": "non-chroot target install   [Not an issue/possibly unrelated]",
+                        "issueUrl": "https://www.github.com/dnschneid/crouton/issues/4600"
+                    },
+                    {
+                        "issueName": "Flashs in Minecraft.",
+                        "issueUrl": "https://www.github.com/dnschneid/crouton/issues/4599"
+                    },
+                    {
+                        "issueName": "Lenovo Flex 5i opens ubuntu to black screen.",
+                        "issueUrl": "https://www.github.com/dnschneid/crouton/issues/4598"
+                    },
+                    {
+                        "issueName": "Using kodi target x server fails",
+                        "issueUrl": "https://www.github.com/dnschneid/crouton/issues/4597"
+                    },
+                    {
+                        "issueName": "Sound Driver not working on Focal Fossa",
+                        "issueUrl": "https://www.github.com/dnschneid/crouton/issues/4592"
+                    },
+                    {
+                        "issueName": "sh: 0: Can't open startxfce4",
+                        "issueUrl": "https://www.github.com/dnschneid/crouton/issues/4589"
+                    },
+                    {
+                        "issueName": "Bionic touchpad doesn't work within an X server",
+                        "issueUrl": "https://www.github.com/dnschneid/crouton/issues/4588"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/MinecraftForge/MinecraftForge",
+                "issues": [
+                    {
+                        "issueName": "[1.17.1] PartEntity doesn't replace all instances of EnderDragonPart",
+                        "issueUrl": "https://www.github.com/MinecraftForge/MinecraftForge/issues/8071"
+                    },
+                    {
+                        "issueName": "[1.16.5] Behavior of model rotation using Forge's TRSR transformation extension to vanilla model seems confusing",
+                        "issueUrl": "https://www.github.com/MinecraftForge/MinecraftForge/issues/8069"
+                    },
+                    {
+                        "issueName": "Mods with \"forge\" in jar name not loading in 1.17.1-37.0.53",
+                        "issueUrl": "https://www.github.com/MinecraftForge/MinecraftForge/issues/8063"
+                    },
+                    {
+                        "issueName": "[RFC] 'Core game' mod concept",
+                        "issueUrl": "https://www.github.com/MinecraftForge/MinecraftForge/issues/8049"
+                    },
+                    {
+                        "issueName": "ModConfigEvent is fired too late",
+                        "issueUrl": "https://www.github.com/MinecraftForge/MinecraftForge/issues/8045"
+                    },
+                    {
+                        "issueName": "Extended bundle tooltip not rendered",
+                        "issueUrl": "https://www.github.com/MinecraftForge/MinecraftForge/issues/8037"
+                    },
+                    {
+                        "issueName": "[1.17.1] Entity Join World Event not firing on all mobs",
+                        "issueUrl": "https://www.github.com/MinecraftForge/MinecraftForge/issues/8030"
+                    },
+                    {
+                        "issueName": "spawnDrops of FoxEntity calls the forge hooks getLootingLevel and onLivingDrops too late",
+                        "issueUrl": "https://www.github.com/MinecraftForge/MinecraftForge/issues/8019"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/nuno-faria/tiler",
+                "issues": [
+                    {
+                        "issueName": "AttributeError: 'NoneType' object has no attribute 'split'",
+                        "issueUrl": "https://www.github.com/nuno-faria/tiler/issues/21"
+                    },
+                    {
+                        "issueName": "Continually receive IndexError: index 3 is out of bounds for axis 2 with size 3",
+                        "issueUrl": "https://www.github.com/nuno-faria/tiler/issues/18"
+                    },
+                    {
+                        "issueName": "gen_tiles.py fails on certain images ",
+                        "issueUrl": "https://www.github.com/nuno-faria/tiler/issues/17"
+                    },
+                    {
+                        "issueName": "TypeError: object of type 'numpy.uint8' has no len()",
+                        "issueUrl": "https://www.github.com/nuno-faria/tiler/issues/13"
+                    },
+                    {
+                        "issueName": "Tiler should pre-allocate array before loading tiles",
+                        "issueUrl": "https://www.github.com/nuno-faria/tiler/issues/7"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/PaperMC/Paper",
+                "issues": [
+                    {
+                        "issueName": "Wrong entity passengers visual",
+                        "issueUrl": "https://www.github.com/PaperMC/Paper/issues/6609"
+                    },
+                    {
+                        "issueName": "Expose a way to change an item's drag/air resistance",
+                        "issueUrl": "https://www.github.com/PaperMC/Paper/issues/6607"
+                    },
+                    {
+                        "issueName": "Crash that I cant identify",
+                        "issueUrl": "https://www.github.com/PaperMC/Paper/issues/6606"
+                    },
+                    {
+                        "issueName": "[Vanilla] Players are able to set the light level of a Light Block even if they shouldn't",
+                        "issueUrl": "https://www.github.com/PaperMC/Paper/issues/6600"
+                    },
+                    {
+                        "issueName": "Failed to build paper",
+                        "issueUrl": "https://www.github.com/PaperMC/Paper/issues/6599"
+                    },
+                    {
+                        "issueName": "Spawn limit missing for underground water creature",
+                        "issueUrl": "https://www.github.com/PaperMC/Paper/issues/6598"
+                    },
+                    {
+                        "issueName": "Soul Sand Valley and Warped Forest Spawning Issues",
+                        "issueUrl": "https://www.github.com/PaperMC/Paper/issues/6594"
+                    },
+                    {
+                        "issueName": "server crashes when invalid? chest minecart gets killed by void",
+                        "issueUrl": "https://www.github.com/PaperMC/Paper/issues/6583"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/cuberite/cuberite",
+                "issues": [
+                    {
+                        "issueName": "Exiting first-person view through a mobs eyes in spectator mode (pressing shift) crashes the server",
+                        "issueUrl": "https://www.github.com/cuberite/cuberite/issues/5296"
+                    },
+                    {
+                        "issueName": "The server trusts everything the client says",
+                        "issueUrl": "https://www.github.com/cuberite/cuberite/issues/5290"
+                    },
+                    {
+                        "issueName": "When using a client that doesn't let you respawn, you can walk around while you're dead",
+                        "issueUrl": "https://www.github.com/cuberite/cuberite/issues/5289"
+                    },
+                    {
+                        "issueName": "Server crashes when adding a rank to a player through the webadmin on an aarch64 machine",
+                        "issueUrl": "https://www.github.com/cuberite/cuberite/issues/5288"
+                    },
+                    {
+                        "issueName": "Having an @ in your message acts weird while sending messages",
+                        "issueUrl": "https://www.github.com/cuberite/cuberite/issues/5287"
+                    },
+                    {
+                        "issueName": "Teleporting to players on a lower Y level to you applies damage to the player",
+                        "issueUrl": "https://www.github.com/cuberite/cuberite/issues/5286"
+                    },
+                    {
+                        "issueName": "Deadlock in cWorld:GetHeight",
+                        "issueUrl": "https://www.github.com/cuberite/cuberite/issues/5284"
+                    },
+                    {
+                        "issueName": "Add setting to limit game versions that can join",
+                        "issueUrl": "https://www.github.com/cuberite/cuberite/issues/5283"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/cabaletta/baritone",
+                "issues": [
+                    {
+                        "issueName": "Null pointer exception Minecraft 1.16.5",
+                        "issueUrl": "https://www.github.com/cabaletta/baritone/issues/2996"
+                    },
+                    {
+                        "issueName": "Baritone is struggling to start building Very large Schematics on both internal and Schemitica ends",
+                        "issueUrl": "https://www.github.com/cabaletta/baritone/issues/2993"
+                    },
+                    {
+                        "issueName": "why does baritone crash with -noverify",
+                        "issueUrl": "https://www.github.com/cabaletta/baritone/issues/2987"
+                    },
+                    {
+                        "issueName": "Please add a brief but descriptive title",
+                        "issueUrl": "https://www.github.com/cabaletta/baritone/issues/2985"
+                    },
+                    {
+                        "issueName": "1.16.5 #mine giving error in chat and #goto crashes game",
+                        "issueUrl": "https://www.github.com/cabaletta/baritone/issues/2977"
+                    },
+                    {
+                        "issueName": "Can Baritone break temporary blocks",
+                        "issueUrl": "https://www.github.com/cabaletta/baritone/issues/2976"
+                    },
+                    {
+                        "issueName": "Powdersnow mlg",
+                        "issueUrl": "https://www.github.com/cabaletta/baritone/issues/2975"
+                    },
+                    {
+                        "issueName": "Crash in forge 1.16.5",
+                        "issueUrl": "https://www.github.com/cabaletta/baritone/issues/2974"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/huanghongxun/HMCL",
+                "issues": [
+                    {
+                        "issueName": "开发版 3.4.202bug反馈",
+                        "issueUrl": "https://www.github.com/huanghongxun/HMCL/issues/1039"
+                    },
+                    {
+                        "issueName": "[建議] 伺服器自動更新整合包功能Pass選項",
+                        "issueUrl": "https://www.github.com/huanghongxun/HMCL/issues/1038"
+                    },
+                    {
+                        "issueName": "mod下载中取消，UI不会关闭",
+                        "issueUrl": "https://www.github.com/huanghongxun/HMCL/issues/1035"
+                    },
+                    {
+                        "issueName": "“模组管理”界面模组名称与文件名称不匹配",
+                        "issueUrl": "https://www.github.com/huanghongxun/HMCL/issues/1033"
+                    },
+                    {
+                        "issueName": "Windows 10 on ARM 平台，HMCL 运行于 AArch64 原生 JDK 上导致系统蓝屏",
+                        "issueUrl": "https://www.github.com/huanghongxun/HMCL/issues/1016"
+                    },
+                    {
+                        "issueName": "HMCL 在 Windows 上应尽量选择独立显卡",
+                        "issueUrl": "https://www.github.com/huanghongxun/HMCL/issues/1014"
+                    },
+                    {
+                        "issueName": "启动命令长度可能会超过 8191 个字符，从而无法启动游戏",
+                        "issueUrl": "https://www.github.com/huanghongxun/HMCL/issues/1013"
+                    },
+                    {
+                        "issueName": "非100%缩放下“添加账户”界面字体渲染模糊",
+                        "issueUrl": "https://www.github.com/huanghongxun/HMCL/issues/1012"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://www.github.com/topics/aspnet",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/aspnetboilerplate/aspnetboilerplate",
+                "issues": [
+                    {
+                        "issueName": "ABP 6.4 Exception ArgumentNullException: Value cannot be null. (Parameter 'ordering')",
+                        "issueUrl": "https://www.github.com/aspnetboilerplate/aspnetboilerplate/issues/6254"
+                    },
+                    {
+                        "issueName": "Use multi tenancy in DynamicProperty and DynamicEntityProperty caches",
+                        "issueUrl": "https://www.github.com/aspnetboilerplate/aspnetboilerplate/issues/6251"
+                    },
+                    {
+                        "issueName": "Multi Tenant : Single Deployment with Multi Database",
+                        "issueUrl": "https://www.github.com/aspnetboilerplate/aspnetboilerplate/issues/6250"
+                    },
+                    {
+                        "issueName": "Question about notification system",
+                        "issueUrl": "https://www.github.com/aspnetboilerplate/aspnetboilerplate/issues/6249"
+                    },
+                    {
+                        "issueName": "The LINQ expression 'DbSet<Role> could not translated",
+                        "issueUrl": "https://www.github.com/aspnetboilerplate/aspnetboilerplate/issues/6247"
+                    },
+                    {
+                        "issueName": "OData return 500 error",
+                        "issueUrl": "https://www.github.com/aspnetboilerplate/aspnetboilerplate/issues/6243"
+                    },
+                    {
+                        "issueName": "About read appsettings.json in appservices",
+                        "issueUrl": "https://www.github.com/aspnetboilerplate/aspnetboilerplate/issues/6242"
+                    },
+                    {
+                        "issueName": "Email Configuration: add IsEnabled property",
+                        "issueUrl": "https://www.github.com/aspnetboilerplate/aspnetboilerplate/issues/6241"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/dotnet/AspNetCore.Docs",
+                "issues": [
+                    {
+                        "issueName": "Required minimum Node.js bump for Azure SDK",
+                        "issueUrl": "https://www.github.com/dotnet/AspNetCore.Docs/issues/23309"
+                    },
+                    {
+                        "issueName": "Blazor JavaScript initializers",
+                        "issueUrl": "https://www.github.com/dotnet/AspNetCore.Docs/issues/23300"
+                    },
+                    {
+                        "issueName": "Collocate JavaScript files with pages, views, and components",
+                        "issueUrl": "https://www.github.com/dotnet/AspNetCore.Docs/issues/23299"
+                    },
+                    {
+                        "issueName": "Update for .NET 6",
+                        "issueUrl": "https://www.github.com/dotnet/AspNetCore.Docs/issues/23287"
+                    },
+                    {
+                        "issueName": "Generation of in-line JS unsafe",
+                        "issueUrl": "https://www.github.com/dotnet/AspNetCore.Docs/issues/23283"
+                    },
+                    {
+                        "issueName": "Doc update to remove AllowAreas",
+                        "issueUrl": "https://www.github.com/dotnet/AspNetCore.Docs/issues/23280"
+                    },
+                    {
+                        "issueName": "Docs for minimal APIs",
+                        "issueUrl": "https://www.github.com/dotnet/AspNetCore.Docs/issues/23275"
+                    },
+                    {
+                        "issueName": "Please update 'Mock authentication' example",
+                        "issueUrl": "https://www.github.com/dotnet/AspNetCore.Docs/issues/23262"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/bitwarden/server",
+                "issues": [
+                    {
+                        "issueName": "Single Organization policy is preventing owners from creating other Organizations, but not admins",
+                        "issueUrl": "https://www.github.com/bitwarden/server/issues/1579"
+                    },
+                    {
+                        "issueName": "Unhealthy SSo and events on Fresh 1.42.2",
+                        "issueUrl": "https://www.github.com/bitwarden/server/issues/1546"
+                    },
+                    {
+                        "issueName": "Error when updating self-hosted: Property 'captcha' not found on type 'Bit.Setup.Configuration'.",
+                        "issueUrl": "https://www.github.com/bitwarden/server/issues/1537"
+                    },
+                    {
+                        "issueName": "Bitwarden performace very slow",
+                        "issueUrl": "https://www.github.com/bitwarden/server/issues/1485"
+                    },
+                    {
+                        "issueName": "Organization transactional emails display some characters as HTML character reference",
+                        "issueUrl": "https://www.github.com/bitwarden/server/issues/1395"
+                    },
+                    {
+                        "issueName": "Adding a duplicate device identifier result in error code 500",
+                        "issueUrl": "https://www.github.com/bitwarden/server/issues/1365"
+                    },
+                    {
+                        "issueName": "Some invalid emails are being accepted when registering",
+                        "issueUrl": "https://www.github.com/bitwarden/server/issues/1364"
+                    },
+                    {
+                        "issueName": "Posting \"sends\" files without a Content-Type header result in error code 500",
+                        "issueUrl": "https://www.github.com/bitwarden/server/issues/1363"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/ElectronNET/Electron.NET",
+                "issues": [
+                    {
+                        "issueName": "Electronize startup exception.",
+                        "issueUrl": "https://www.github.com/ElectronNET/Electron.NET/issues/604"
+                    },
+                    {
+                        "issueName": "Electron Project exe does not exist in desktop folder",
+                        "issueUrl": "https://www.github.com/ElectronNET/Electron.NET/issues/603"
+                    },
+                    {
+                        "issueName": "Blazor Server Side work on electronize start but not after electronize build /target win",
+                        "issueUrl": "https://www.github.com/ElectronNET/Electron.NET/issues/602"
+                    },
+                    {
+                        "issueName": "Get path to the file that launched the application",
+                        "issueUrl": "https://www.github.com/ElectronNET/Electron.NET/issues/601"
+                    },
+                    {
+                        "issueName": "How to include static files in electron-packager published output folder?",
+                        "issueUrl": "https://www.github.com/ElectronNET/Electron.NET/issues/600"
+                    },
+                    {
+                        "issueName": "[Bug] can't install on balzor webassembly",
+                        "issueUrl": "https://www.github.com/ElectronNET/Electron.NET/issues/599"
+                    },
+                    {
+                        "issueName": "build linux failed on window",
+                        "issueUrl": "https://www.github.com/ElectronNET/Electron.NET/issues/597"
+                    },
+                    {
+                        "issueName": "Setting BrowserWindow Cookies to a value that should be or is URL encoded fails",
+                        "issueUrl": "https://www.github.com/ElectronNET/Electron.NET/issues/593"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/RicoSuter/NSwag",
+                "issues": [
+                    {
+                        "issueName": "Question: I made a client/operation name generator that works off a format string..",
+                        "issueUrl": "https://www.github.com/RicoSuter/NSwag/issues/3628"
+                    },
+                    {
+                        "issueName": ".Net 6 support.",
+                        "issueUrl": "https://www.github.com/RicoSuter/NSwag/issues/3627"
+                    },
+                    {
+                        "issueName": "The type or namespace name 'SwaggerToCSharpClientGeneratorSettings' could not be found",
+                        "issueUrl": "https://www.github.com/RicoSuter/NSwag/issues/3626"
+                    },
+                    {
+                        "issueName": "Nswag Studio: add an option to generate tree-shakeable Typescript clients",
+                        "issueUrl": "https://www.github.com/RicoSuter/NSwag/issues/3624"
+                    },
+                    {
+                        "issueName": "The axios client generator messes up all the request bodies",
+                        "issueUrl": "https://www.github.com/RicoSuter/NSwag/issues/3623"
+                    },
+                    {
+                        "issueName": "CSharpClientGenerator: IFormFileCollection support broken",
+                        "issueUrl": "https://www.github.com/RicoSuter/NSwag/issues/3622"
+                    },
+                    {
+                        "issueName": "QUESTION: Typescript custom headers for individual requests",
+                        "issueUrl": "https://www.github.com/RicoSuter/NSwag/issues/3621"
+                    },
+                    {
+                        "issueName": "Typescript client - generated parameter not typed as array for dictionary query params ",
+                        "issueUrl": "https://www.github.com/RicoSuter/NSwag/issues/3620"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/thangchung/clean-code-dotnet",
+                "issues": [
+                    {
+                        "issueName": "Add some of the sections from https://csharpcodingguidelines.com/",
+                        "issueUrl": "https://www.github.com/thangchung/clean-code-dotnet/issues/98"
+                    },
+                    {
+                        "issueName": "Please, add vs project with cs examples in this repo",
+                        "issueUrl": "https://www.github.com/thangchung/clean-code-dotnet/issues/97"
+                    },
+                    {
+                        "issueName": "SOLID. Liskov Substitution Principle (LSP). Example incorrect.",
+                        "issueUrl": "https://www.github.com/thangchung/clean-code-dotnet/issues/96"
+                    },
+                    {
+                        "issueName": "Objects and Data Structures. Make objects have private/protected members",
+                        "issueUrl": "https://www.github.com/thangchung/clean-code-dotnet/issues/94"
+                    },
+                    {
+                        "issueName": "Avoid conditionals",
+                        "issueUrl": "https://www.github.com/thangchung/clean-code-dotnet/issues/93"
+                    },
+                    {
+                        "issueName": "CleanCodeDotnet",
+                        "issueUrl": "https://www.github.com/thangchung/clean-code-dotnet/issues/90"
+                    },
+                    {
+                        "issueName": "OCP: HttpRequester Inheritance from AdapterBase does not make sense",
+                        "issueUrl": "https://www.github.com/thangchung/clean-code-dotnet/issues/88"
+                    },
+                    {
+                        "issueName": "Missing IAsyncEnumerable mention in Common Async Problems",
+                        "issueUrl": "https://www.github.com/thangchung/clean-code-dotnet/issues/82"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/JimBobSquarePants/ImageProcessor",
+                "issues": [
+                    {
+                        "issueName": "Improve ISupportedImageFormat handling for vector and video types",
+                        "issueUrl": "https://www.github.com/JimBobSquarePants/ImageProcessor/pull/822"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/smartstore/SmartStoreNET",
+                "issues": [
+                    {
+                        "issueName": "Could not load file or assembly 'Microsoft.CodeDom.Providers.DotNetCompilerPlatform,",
+                        "issueUrl": "https://www.github.com/smartstore/SmartStoreNET/issues/2224"
+                    },
+                    {
+                        "issueName": "Google Merchant Center misbehaviour",
+                        "issueUrl": "https://www.github.com/smartstore/SmartStoreNET/issues/2223"
+                    },
+                    {
+                        "issueName": "How can i fix \"No store could be loaded\" error?",
+                        "issueUrl": "https://www.github.com/smartstore/SmartStoreNET/issues/2222"
+                    },
+                    {
+                        "issueName": "Could not load file or assembly 'System.Buffers",
+                        "issueUrl": "https://www.github.com/smartstore/SmartStoreNET/issues/2221"
+                    },
+                    {
+                        "issueName": "DependingPrices and Coupons",
+                        "issueUrl": "https://www.github.com/smartstore/SmartStoreNET/issues/2220"
+                    },
+                    {
+                        "issueName": "Filter sidebar widget missing in configuration",
+                        "issueUrl": "https://www.github.com/smartstore/SmartStoreNET/issues/2219"
+                    },
+                    {
+                        "issueName": "invisible reCaptcha not working with form-configurator",
+                        "issueUrl": "https://www.github.com/smartstore/SmartStoreNET/issues/2216"
+                    },
+                    {
+                        "issueName": "Rule for shipment, unexpected result.",
+                        "issueUrl": "https://www.github.com/smartstore/SmartStoreNET/issues/2215"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://www.github.com/topics/nim",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/nim-lang/Nim",
+                "issues": [
+                    {
+                        "issueName": "Compiler unable to detect cyclic type definition if it is used as the argument in a procedure",
+                        "issueUrl": "https://www.github.com/nim-lang/Nim/issues/18855"
+                    },
+                    {
+                        "issueName": "Gully comments causing failure to compile",
+                        "issueUrl": "https://www.github.com/nim-lang/Nim/issues/18847"
+                    },
+                    {
+                        "issueName": "Typechecking can be bypassed for descendant of generics when a typedesc parameter or auto is used",
+                        "issueUrl": "https://www.github.com/nim-lang/Nim/issues/18846"
+                    },
+                    {
+                        "issueName": "Object can be implicitly converted into a different base than what is defined",
+                        "issueUrl": "https://www.github.com/nim-lang/Nim/issues/18845"
+                    },
+                    {
+                        "issueName": "Compilation Failure - empty scalar initializer - Inheritable objects & Atomics [OA]RC on DEVEL",
+                        "issueUrl": "https://www.github.com/nim-lang/Nim/issues/18844"
+                    },
+                    {
+                        "issueName": "Trying to run the build_all.sh script with a nimble package install throws error",
+                        "issueUrl": "https://www.github.com/nim-lang/Nim/issues/18840"
+                    },
+                    {
+                        "issueName": "Compilation outputs strange warning messages (packaging issue?)",
+                        "issueUrl": "https://www.github.com/nim-lang/Nim/issues/18831"
+                    },
+                    {
+                        "issueName": "#18784 broke arraymancer autograd code",
+                        "issueUrl": "https://www.github.com/nim-lang/Nim/issues/18828"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/zedeus/nitter",
+                "issues": [
+                    {
+                        "issueName": "Disabling autocomplete attribute",
+                        "issueUrl": "https://www.github.com/zedeus/nitter/issues/433"
+                    },
+                    {
+                        "issueName": "\"Content-Length required\" error in Firefox when saving preferences",
+                        "issueUrl": "https://www.github.com/zedeus/nitter/issues/430"
+                    },
+                    {
+                        "issueName": "Instances sporadically get a random username's timeline for RSS feeds",
+                        "issueUrl": "https://www.github.com/zedeus/nitter/issues/428"
+                    },
+                    {
+                        "issueName": "Remove title from the RSS feed",
+                        "issueUrl": "https://www.github.com/zedeus/nitter/issues/425"
+                    },
+                    {
+                        "issueName": "An error has occured in one of your routes",
+                        "issueUrl": "https://www.github.com/zedeus/nitter/issues/424"
+                    },
+                    {
+                        "issueName": "Quotes tweets in RSS feed show whole tweet instead of links",
+                        "issueUrl": "https://www.github.com/zedeus/nitter/issues/423"
+                    },
+                    {
+                        "issueName": "Docker: ARM64 builds are all broken",
+                        "issueUrl": "https://www.github.com/zedeus/nitter/issues/422"
+                    },
+                    {
+                        "issueName": "Video in RSS feed",
+                        "issueUrl": "https://www.github.com/zedeus/nitter/issues/421"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/Dav1dde/glad",
+                "issues": [
+                    {
+                        "issueName": "GLAD2: Is the \"alias\" option support \"OES\" extensions?",
+                        "issueUrl": "https://www.github.com/Dav1dde/glad/issues/334"
+                    },
+                    {
+                        "issueName": "Multiple definitions for D",
+                        "issueUrl": "https://www.github.com/Dav1dde/glad/issues/317"
+                    },
+                    {
+                        "issueName": "Zig Generator",
+                        "issueUrl": "https://www.github.com/Dav1dde/glad/issues/307"
+                    },
+                    {
+                        "issueName": "Dealing with Languages I cannot properly maintain in glad2",
+                        "issueUrl": "https://www.github.com/Dav1dde/glad/issues/302"
+                    },
+                    {
+                        "issueName": "Inclusion guards for OpenGL ES headers",
+                        "issueUrl": "https://www.github.com/Dav1dde/glad/issues/273"
+                    },
+                    {
+                        "issueName": "Multicontext documentation ambiguity and possible bug?",
+                        "issueUrl": "https://www.github.com/Dav1dde/glad/issues/259"
+                    },
+                    {
+                        "issueName": "Add OpenXR support to loader",
+                        "issueUrl": "https://www.github.com/Dav1dde/glad/issues/233"
+                    },
+                    {
+                        "issueName": "Use atexit to automatically unload/free module handles",
+                        "issueUrl": "https://www.github.com/Dav1dde/glad/issues/228"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/nim-lang/nimble",
+                "issues": [
+                    {
+                        "issueName": "nim says \"invalid package name\"",
+                        "issueUrl": "https://www.github.com/nim-lang/nimble/issues/940"
+                    },
+                    {
+                        "issueName": "nimble publish doesn't checks if repo url is valid",
+                        "issueUrl": "https://www.github.com/nim-lang/nimble/issues/939"
+                    },
+                    {
+                        "issueName": "Print .nim files as they're compiled when --debug is used?",
+                        "issueUrl": "https://www.github.com/nim-lang/nimble/issues/936"
+                    },
+                    {
+                        "issueName": "version in nimble file redundant with git tag of package?",
+                        "issueUrl": "https://www.github.com/nim-lang/nimble/issues/935"
+                    },
+                    {
+                        "issueName": "skipDirs is overriden by installExt",
+                        "issueUrl": "https://www.github.com/nim-lang/nimble/issues/932"
+                    },
+                    {
+                        "issueName": "Win32/Uwasson.A!ml",
+                        "issueUrl": "https://www.github.com/nim-lang/nimble/issues/930"
+                    },
+                    {
+                        "issueName": "Flags are not passed correctly to custom tasks",
+                        "issueUrl": "https://www.github.com/nim-lang/nimble/issues/929"
+                    },
+                    {
+                        "issueName": "NIMBLE_DIR=$HOME/.nimble_alt nimble install pkgname doesn't work unless i also add XDG_CONFIG_HOME= ",
+                        "issueUrl": "https://www.github.com/nim-lang/nimble/issues/925"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/mratsim/Arraymancer",
+                "issues": [
+                    {
+                        "issueName": "Found that output from forward pass zeros-out during test",
+                        "issueUrl": "https://www.github.com/mratsim/Arraymancer/issues/526"
+                    },
+                    {
+                        "issueName": "speed vs numpy",
+                        "issueUrl": "https://www.github.com/mratsim/Arraymancer/issues/522"
+                    },
+                    {
+                        "issueName": "Windows CI",
+                        "issueUrl": "https://www.github.com/mratsim/Arraymancer/issues/512"
+                    },
+                    {
+                        "issueName": "[32-bit Linux] Investigate Linear Algebra failure",
+                        "issueUrl": "https://www.github.com/mratsim/Arraymancer/issues/511"
+                    },
+                    {
+                        "issueName": "make arraymancer work with devel",
+                        "issueUrl": "https://www.github.com/mratsim/Arraymancer/issues/505"
+                    },
+                    {
+                        "issueName": "Operations not traced on minimal example",
+                        "issueUrl": "https://www.github.com/mratsim/Arraymancer/issues/502"
+                    },
+                    {
+                        "issueName": "Two (small) issues with display of tensor",
+                        "issueUrl": "https://www.github.com/mratsim/Arraymancer/issues/500"
+                    },
+                    {
+                        "issueName": "QR decomposition test, sign issue",
+                        "issueUrl": "https://www.github.com/mratsim/Arraymancer/issues/494"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/yglukhov/nimx",
+                "issues": [
+                    {
+                        "issueName": "Better clipboard support on Linux and Android",
+                        "issueUrl": "https://www.github.com/yglukhov/nimx/issues/491"
+                    },
+                    {
+                        "issueName": "demo completely broken in firefox 91",
+                        "issueUrl": "https://www.github.com/yglukhov/nimx/issues/490"
+                    },
+                    {
+                        "issueName": "error nimble install nimx",
+                        "issueUrl": "https://www.github.com/yglukhov/nimx/issues/489"
+                    },
+                    {
+                        "issueName": "Font path does not work on Fedora",
+                        "issueUrl": "https://www.github.com/yglukhov/nimx/issues/485"
+                    },
+                    {
+                        "issueName": "Unable to compile examples as instructed with 'nake'.",
+                        "issueUrl": "https://www.github.com/yglukhov/nimx/issues/479"
+                    },
+                    {
+                        "issueName": "Documentation : plotting curves, diagrams etc",
+                        "issueUrl": "https://www.github.com/yglukhov/nimx/issues/477"
+                    },
+                    {
+                        "issueName": "Borderless window on macos",
+                        "issueUrl": "https://www.github.com/yglukhov/nimx/issues/465"
+                    },
+                    {
+                        "issueName": "Collisions on SSL_connect (openssl.nim)",
+                        "issueUrl": "https://www.github.com/yglukhov/nimx/issues/464"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/planety/prologue",
+                "issues": [
+                    {
+                        "issueName": "Multiple long lasting connections fail",
+                        "issueUrl": "https://www.github.com/planety/prologue/issues/128"
+                    },
+                    {
+                        "issueName": "How to serve static folder at specific route?",
+                        "issueUrl": "https://www.github.com/planety/prologue/issues/126"
+                    },
+                    {
+                        "issueName": "Are there any plans to support HTTP/2 server protocol?",
+                        "issueUrl": "https://www.github.com/planety/prologue/issues/119"
+                    },
+                    {
+                        "issueName": "Unable to generate docs for projects using prologue",
+                        "issueUrl": "https://www.github.com/planety/prologue/issues/118"
+                    },
+                    {
+                        "issueName": "add setCookie(response, cookie: Cookie) overload",
+                        "issueUrl": "https://www.github.com/planety/prologue/issues/115"
+                    },
+                    {
+                        "issueName": "Prologue server crashes with unhandled exception: reqGetData.headersFinished Selector not ready to send.",
+                        "issueUrl": "https://www.github.com/planety/prologue/issues/110"
+                    },
+                    {
+                        "issueName": "Allow multiple servers running in parallel in async mode",
+                        "issueUrl": "https://www.github.com/planety/prologue/issues/105"
+                    },
+                    {
+                        "issueName": "Upload file huge memory consumption",
+                        "issueUrl": "https://www.github.com/planety/prologue/issues/103"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/nim-lang/nimforum",
+                "issues": [
+                    {
+                        "issueName": "Upgrade process? Release process?",
+                        "issueUrl": "https://www.github.com/nim-lang/nimforum/issues/299"
+                    },
+                    {
+                        "issueName": "Unsure of the security of makeIdentHash / makePassword",
+                        "issueUrl": "https://www.github.com/nim-lang/nimforum/issues/298"
+                    },
+                    {
+                        "issueName": "Please support asciidoc formatting",
+                        "issueUrl": "https://www.github.com/nim-lang/nimforum/issues/297"
+                    },
+                    {
+                        "issueName": "FR: Expand the list of supported PLs for syntax highlighting",
+                        "issueUrl": "https://www.github.com/nim-lang/nimforum/issues/296"
+                    },
+                    {
+                        "issueName": "Reply textarea doesn't keep it's size after losing focus",
+                        "issueUrl": "https://www.github.com/nim-lang/nimforum/issues/295"
+                    },
+                    {
+                        "issueName": "Update cheat sheet to reflect all the supported Markdown markup",
+                        "issueUrl": "https://www.github.com/nim-lang/nimforum/issues/294"
+                    },
+                    {
+                        "issueName": "[FR] Add action buttons for code blocks",
+                        "issueUrl": "https://www.github.com/nim-lang/nimforum/issues/293"
+                    },
+                    {
+                        "issueName": "\"Activity\" column  with the time since last activity can be negative",
+                        "issueUrl": "https://www.github.com/nim-lang/nimforum/issues/292"
+                    }
+                ]
+            }
+        ]
+    }
+]
